@@ -1,0 +1,4 @@
+aiokafka
+pyspark==3.5.0
+aiohttp
+pandas

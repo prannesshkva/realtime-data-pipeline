@@ -1,0 +1,11 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-01c9cbce-aa0c-466b-b829-3ac0997c1dd9-c000.snappy.parquet","timestamp":1773575215032,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00001-31c1e6a2-133a-4588-857f-130613ad6538-c000.snappy.parquet","timestamp":1773575215058,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00001-ed71ceb7-b324-47bf-8861-18a4aa8ff35d-c000.snappy.parquet","timestamp":1773575221229,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-e7fcdb59-f418-4298-b8c5-7f9218c30aaa-c000.snappy.parquet","timestamp":1773575221396,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-c70e8a74-96d6-486c-b1fb-c085aaa36884-c000.snappy.parquet","timestamp":1773575275535,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00001-b303ab57-d479-496a-b292-e79d5f231e7f-c000.snappy.parquet","timestamp":1773575281946,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-2d8f8f33-4e37-48eb-bca6-fbab75b3d7b9-c000.snappy.parquet","timestamp":1773575282144,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-421581f8-9d6e-4055-b8e7-af15e6f47714-c000.snappy.parquet","timestamp":1773575336721,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00001-b29c268f-677f-4320-a2b6-f172c326e4e0-c000.snappy.parquet","timestamp":1773575342878,"batchId":1}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-72510cb4-f4a4-4c70-acca-2cafd13943a0-c000.snappy.parquet","timestamp":1773575342881,"batchId":1}

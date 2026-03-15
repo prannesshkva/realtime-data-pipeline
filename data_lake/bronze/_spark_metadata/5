@@ -1,0 +1,2 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_push/part-00000-d55107ec-8131-40c1-b339-41ae6d2b2db1.c000.snappy.parquet","size":1299,"isDir":false,"modificationTime":1773575087976,"blockReplication":1,"blockSize":33554432,"action":"add"}

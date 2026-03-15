@@ -1,0 +1,2 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/gold/velocity/part-00000-e5f53c7b-a677-48e4-a7c5-9f0eca6b5042-c000.snappy.parquet","size":721,"isDir":false,"modificationTime":1773575284560,"blockReplication":1,"blockSize":33554432,"action":"add"}

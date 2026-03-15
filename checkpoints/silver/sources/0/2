@@ -1,0 +1,4 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_create/part-00001-3c1d6600-9c0f-4b3d-a3bd-185af9aa0c83.c000.snappy.parquet","timestamp":1773575150725,"batchId":2}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_delete/part-00000-c1604c68-f57e-4e3b-bc08-83d834dcacf2.c000.snappy.parquet","timestamp":1773575150801,"batchId":2}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_push/part-00002-bb11b680-6f8b-4d6f-be79-3765ba9c0674.c000.snappy.parquet","timestamp":1773575151435,"batchId":2}

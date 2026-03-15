@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-e316eba3-f215-490d-846a-da37ded94d6f-c000.snappy.parquet","size":3042,"isDir":false,"modificationTime":1773575157597,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00001-788d2281-458f-4b44-bd2e-f1a9084378d7-c000.snappy.parquet","size":1993,"isDir":false,"modificationTime":1773575157683,"blockReplication":1,"blockSize":33554432,"action":"add"}

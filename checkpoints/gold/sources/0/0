@@ -1,0 +1,6 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00001-af5b81fb-b573-4e68-a657-9595b431879e-c000.snappy.parquet","timestamp":1773575106166,"batchId":0}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-e20015e0-c12f-4640-ac32-8bf46a10614c-c000.snappy.parquet","timestamp":1773575106201,"batchId":0}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-8d1e53d4-a3c7-4e5b-b82a-b09770d8af51-c000.snappy.parquet","timestamp":1773575150569,"batchId":0}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00000-e316eba3-f215-490d-846a-da37ded94d6f-c000.snappy.parquet","timestamp":1773575157597,"batchId":0}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/silver/part-00001-788d2281-458f-4b44-bd2e-f1a9084378d7-c000.snappy.parquet","timestamp":1773575157683,"batchId":0}

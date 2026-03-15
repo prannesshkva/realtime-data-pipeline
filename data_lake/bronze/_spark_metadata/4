@@ -1,0 +1,4 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_delete/part-00000-9d9a8ea5-c4f8-41fb-8567-05ff381f0a6a.c000.snappy.parquet","size":1496,"isDir":false,"modificationTime":1773575028299,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_create/part-00001-c0f22b26-5e02-402c-b229-08fa9b30049e.c000.snappy.parquet","size":1282,"isDir":false,"modificationTime":1773575028049,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_push/part-00002-d00fab05-fabc-48e9-a506-f9c6c1167af9.c000.snappy.parquet","size":2113,"isDir":false,"modificationTime":1773575028473,"blockReplication":1,"blockSize":33554432,"action":"add"}

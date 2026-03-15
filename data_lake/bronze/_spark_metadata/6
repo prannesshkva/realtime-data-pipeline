@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_create/part-00000-3290c294-ba42-493c-a089-94c6d7019a3d.c000.snappy.parquet","size":1308,"isDir":false,"modificationTime":1773575090225,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/realtime-data-pipeline/data_lake/bronze/topic=gh_push/part-00001-9fa488fb-a23a-4995-b9e1-622923251a6c.c000.snappy.parquet","size":2488,"isDir":false,"modificationTime":1773575090000,"blockReplication":1,"blockSize":33554432,"action":"add"}
